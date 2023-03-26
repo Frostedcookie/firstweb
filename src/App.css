@@ -1,0 +1,11 @@
+#home {
+    background:rgb(184, 119, 192);
+    background:linear-gradient(90deg,rgb(213, 11, 186) 30%,rgb(202, 122, 204) 70%);
+    min-height: 500px;
+}
+
+.form{
+    background:rgb(184, 119, 192);
+    background:linear-gradient(90deg,rgb(213, 11, 186) 30%,rgb(202, 122, 204) 70%);
+    min-height: 500px;
+}
