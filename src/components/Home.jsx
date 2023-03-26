@@ -8,7 +8,7 @@ export default function Home() {
       <div className="container">
       <div className="row justify-content-center">
       <div className="col-md-8 mt-5">
-      <h1 className="display-4 fw-bolder mb-4 text-center text-white">Feel the fresh business</h1>
+      <h1 className="display-4 fw-bolder mb-4 text-center text-white">Web Application</h1>
       <p className="lead text-center fs-4 mb-5 text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
       Dolorum, at aut iusto quos animi voluptatem perspiciatis adipisci ratione ab dolorem.</p>
       <div className="buttons d-flex
